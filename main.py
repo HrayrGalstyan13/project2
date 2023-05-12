@@ -1,5 +1,6 @@
 import random
 
+
 def numbers(c):
     a = random.randint(1, 6)
     b = random.randint(1, 6)
